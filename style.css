@@ -5,6 +5,12 @@
     --text-ratio: 1.6666666667em
 }
 
+@media only screen and (max-width: 1024px){
+    body{
+        margin: 20px auto;
+    }
+}
+
 body {
     font-family: var(--font);
     font-size: var(--font-size);
