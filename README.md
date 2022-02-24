@@ -21,5 +21,4 @@ title:  "Example title"
 
 Once the post is ready to be published, the publishing date needs to be prepended to
 the filename in the format `yyyy-mm-dd-filename.md`. It can then be simply moved 
-to `_posts`.
-
+to `_posts`. It will then be automatically published within ~2 minutes.
